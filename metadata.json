@@ -1,0 +1,6 @@
+{
+  "name": "RR DATA ANALYSIS AI",
+  "description": "AI-powered data analysis, flowchart architect, intelligent data structure generator, automated telemetry dashboard, and unified AI Drive storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
